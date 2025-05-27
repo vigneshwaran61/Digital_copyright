@@ -1,0 +1,15 @@
+.login-container{
+    margin-left: 500px;
+    
+}
+body{
+        background: linear-gradient(to right, blue, rgb(252, 8, 219));
+        margin-left: 100px;
+        margin-right: 100px;
+    
+}
+.p1{
+    margin-right: 300px;
+    text-emphasis-color: blue;
+
+}
